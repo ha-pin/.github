@@ -6,9 +6,9 @@
 
 由于各种历史原因，哈萨克语文字现有三种主要的形式，中国新疆境内所使用的 **阿拉伯-波斯字母**，哈萨克斯坦所使用的 **西里尔字母** 和 **拉丁化改革**。哈拼构建了一套完全独立于其之上的输入方案，致力于支持不同文字哈萨克语的输入，兼容标准的美式键盘。希望你可以快速上手和乐于使用哈拼，更欢迎你的开发加入。
 
-你可以在 Open Kazakh 项目查看更多哈拼相关的内容：
+你可以在哈拼官网查看更多哈拼相关的内容：
 
-- https://open-kazakh.vercel.app/hapin/index
+- https://ha-pin.github.io
 
 Hapin, which means "The alphabetization of kazakh language". It came from a kazakh language experiment about how to make it easy for the Hans to learn kazakh language and how to input kazakh language (The Persian alphabet based) via simple keyboard. Recently, Hapin project is composed of **The Standardization of Hapin**, **Input Method Support** and **Hapin Developer Tools**.
 
@@ -16,6 +16,6 @@ Hapin is standing on the shoulders of giants. The Standardization of Hapin goes 
 
 Due to historical reasons, there are three main forms of Kazakh alphabet, **The Persian alphabet**, **The Cyrillic alphabet** and **Reform of Latinization of Kazakh Language of Kazakhstan**. Hapin has built an independent scheme over them, aims to support different forms alphabet input. Hapin is compatible with Standard American keyboard. Hope you can enjoy using Hapin Project, and welcome to join development~
 
-You can get more details about Hapin from Open Kazakh Project:
+You can get more details about Hapin from Official Website:
 
-- https://open-kazakh.vercel.app/hapin/index
+- https://ha-pin.github.io
