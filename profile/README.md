@@ -8,7 +8,7 @@
 
 你可以在哈拼官网查看更多哈拼相关的内容：
 
-- https://ha-pin.github.io
+- https://hapin.js.org
 
 Hapin, which means "The alphabetization of kazakh language". It came from a kazakh language experiment about how to make it easy for the Hans to learn kazakh language and how to input kazakh language (The Persian alphabet based) via simple keyboard. Recently, Hapin project is composed of **The Standardization of Hapin**, **Input Method Support** and **Hapin Developer Tools**.
 
@@ -18,4 +18,4 @@ Due to historical reasons, there are three main forms of Kazakh alphabet, **The 
 
 You can get more details about Hapin from Official Website:
 
-- https://ha-pin.github.io
+- https://hapin.js.org
