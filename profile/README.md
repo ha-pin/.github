@@ -10,6 +10,10 @@
 
 - https://hapin.js.org
 
+加入 Discord：
+
+[![discord](https://discord.badge.ibert.me/api/server/aU2BsjSqhq)](https://discord.gg/aU2BsjSqhq)
+
 Hapin, which means "The alphabetization of kazakh language". It came from a kazakh language experiment about how to make it easy for the Hans to learn kazakh language and how to input kazakh language (The Persian alphabet based) via simple keyboard. Recently, Hapin project is composed of **The Standardization of Hapin**, **Input Method Support** and **Hapin Developer Tools**.
 
 Hapin is standing on the shoulders of giants. The Standardization of Hapin goes through **Hapin Experimental Scheme Stage (v0.x)**, **Hapin Scheme Preview Stage** and **Hapin Offical Scheme Stage (v1.x)**. The development of Hapin based on **Pinyin**, **IPA**, **Word construction of Kazakh Language(The Persian alphabet based)** and **Reform of Latinization of Kazakh Language of Kazakhstan**... Benefit from Pinyin, Hapin builds a non-inductive, quick-to-use, intuitive input system.
@@ -19,3 +23,7 @@ Due to historical reasons, there are three main forms of Kazakh alphabet, **The 
 You can get more details about Hapin from Official Website:
 
 - https://hapin.js.org
+
+Join Discord：
+
+[![discord](https://discord.badge.ibert.me/api/server/aU2BsjSqhq)](https://discord.gg/aU2BsjSqhq)
